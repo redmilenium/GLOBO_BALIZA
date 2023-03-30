@@ -34,6 +34,17 @@ El modulo LORA es un RA01, que enciendo mediante D4 cuando lo voy a utilizar y a
 
 Tambien utilizo la función Sleep del arduino Nano para reducir los consumos y posiblemente tambien elimine los led´s.
 
+He utilizado una bateria de 3,7 voltios (cargada al máximo llega a 4,20 voltios) 500 mA de capacidad.
+
+El modulo Lora se alimenta a traves de un diodo con una caida de 0,6 voltios, por tanto, a la máxima carga de la batería el módulo se alimentará a 3,6 voltios que segun especificaciones del fabricante es su limite superior.
+
+El arduino nano esta configurado para que el sistema de BrownOut este en su limite inferior de tensión y no se reinicie aunque la batería este practimente descargada.
+
+Esto se hace con la configuración de los fusibles e implica la necesidad de disponer de un programador HVPP
+
+![image](https://user-images.githubusercontent.com/48222471/228961197-4ed86343-1da8-46af-87bb-497e31bdd65e.png)
+
+
 Dado que he eliminado el chip USB del Nano, la carga del soft, se hace via ISP.
 
 Esquema electrico:
