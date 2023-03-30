@@ -45,11 +45,12 @@ Prueba de vida de que los mensajes son recibidos como test en las TinyGS:
 ![image](https://user-images.githubusercontent.com/48222471/228908670-437fca5c-1ef1-4457-991f-f8e27e7f1951.png)
 ![image](https://user-images.githubusercontent.com/48222471/228918226-2514e1cf-1ea5-44a5-ae04-cddd2e6dc6aa.png)
 
-Y este es el soft que corre en el Arduino Nano.
 
 Una curiosidad, esta programado para si la baliza recibe algun paquete de datos, los reenvia en lugar de los mensajes preprogramados.
 
 Las frecuencias a utilizar no deberán "molestar" a otros servicios o satelites...
+
+Y este es el soft que corre en el Arduino Nano:
 
 ```
 
