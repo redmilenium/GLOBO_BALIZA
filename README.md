@@ -42,6 +42,8 @@ Prueba de vida de que los mensajes son recibidos como test en las TinyGS:
 
 ![image](https://user-images.githubusercontent.com/48222471/228908670-437fca5c-1ef1-4457-991f-f8e27e7f1951.png)
 
+Y este es el soft que corre en el Arduino Nano:
+
 ```
 
 #include <Arduino.h>
