@@ -1,6 +1,6 @@
 # GLOBO_BALIZA
 
-Este proyecto es la versión Low Cost del DANTESAT, un nanosat que principalmente se dedicó durante su vidad util a enviar frases de la "Divina Comedia" de Dante.
+Este proyecto es la versión Low Cost del DANTESAT, un nanosat que principalmente se dedicó durante su vidad util a emitir  frases de la "Divina Comedia" de Dante.
 
 En mi caso, el elegido ha sido Miguel de Cervantes y nuestro "Quijote".
 
