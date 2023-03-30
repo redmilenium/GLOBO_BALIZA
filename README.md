@@ -20,6 +20,8 @@ No obstante, esto esta en pruebas y lo mejor será ir añadiendo globos hasta qu
 
 Tambien tengo comprobar la duración de la batería LIPO, ya que no va a disponer de placa solar que la cargue.
 
+Para limitar el peso, en el caso de utilizar una placa solar, tampoco he incluido ningun circuito que regule la carga de la bateria.
+
 He utilizado un arduino nano, al que le le quitado el chip que controla el USB y el regular de tensión.
 
 ![image](https://user-images.githubusercontent.com/48222471/228915551-94f1ddf4-b4a0-430f-ab87-c8e708da4901.png)
