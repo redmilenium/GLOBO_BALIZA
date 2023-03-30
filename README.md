@@ -6,7 +6,7 @@ En mi caso, el elegido ha sido Miguel de Cervantes y nuestro "Quijote".
 
 El montaje, sin placa solar, pero con batería Lipo pesa aproximadamente 30 g. 
 
-Para elevarlo se necesitaran al menos globos que puedan contener al menos 60 litros de Helio (o unir varios de ellos tipo "UP" de Disney).
+Para elevarlo se necesitaran globos que puedan contener al menos 60 litros de Helio (o unir varios de ellos tipo "UP" de Disney).
 
 Explicación: cada litro de Helio es capaz de elevar 1 g. de peso, pero ademas de el equipo de balizaje hay que hacer ascender el peso de los globos.
 
