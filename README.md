@@ -38,7 +38,7 @@ Dado que he eliminado el chip USB del Nano, la carga del soft, se hace via ISP.
 
 Esquema electrico:
 
-![image](https://user-images.githubusercontent.com/48222471/228909935-afdc4040-1626-4235-8931-c99687ae3ff5.png)
+![image](https://user-images.githubusercontent.com/48222471/228959022-5b7c2d62-fdad-40b6-97ce-a100f6fa1ecd.png)
 
 Vista del montaje:
 
