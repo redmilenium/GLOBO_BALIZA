@@ -42,8 +42,7 @@ El arduino nano esta configurado para que el sistema de BrownOut este en su limi
 
 Esto se hace con la configuración de los fusibles e implica la necesidad de disponer de un programador HVPP
 
-![image](https://user-images.githubusercontent.com/48222471/228961197-4ed86343-1da8-46af-87bb-497e31bdd65e.png)
-
+![image](https://user-images.githubusercontent.com/48222471/228961570-cb658775-fc18-4a5b-b02c-3d2527c8fe56.png)
 
 Dado que he eliminado el chip USB del Nano, la carga del soft, se hace via ISP.
 
