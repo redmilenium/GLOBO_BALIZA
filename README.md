@@ -28,7 +28,7 @@ He utilizado un arduino nano, al que le le quitado el chip que controla el USB y
 
 ![image](https://user-images.githubusercontent.com/48222471/228915551-94f1ddf4-b4a0-430f-ab87-c8e708da4901.png)
 
-Esto es debido a que quiero reducir el consumo el máximo posible (y a que no había recibido los atmel 328 DIP28).
+Esto es debido a que quiero reducir el consumo el máximo posible (y a que no había recibido los atmega 328U DIP28).
 
 El modulo LORA es un RA01, que enciendo mediante D4 cuando lo voy a utilizar y apago durante los tiempos muertos.
 
