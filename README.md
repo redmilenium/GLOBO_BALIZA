@@ -63,6 +63,9 @@ Prueba de vida de que los mensajes son recibidos como test en las TinyGS:
 
 VERSION ATMEGA328P DIP28
 
+He configurado mediante fusibles la utilización del reloj interno de 8 Mhz y asi evito un componente, el cuarzo.
+El resto del circuito es practicamente como con el Arduino Nano.
+
 Esquema electrico
 
 ![image](https://user-images.githubusercontent.com/48222471/229313160-3cbac3ff-af95-465b-abf5-dbf3972f0f7c.png)
