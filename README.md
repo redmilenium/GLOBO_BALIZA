@@ -24,11 +24,13 @@ Tambien tengo comprobar la duración de la batería LIPO, ya que no va a dispone
 
 Para limitar el peso, en el caso de utilizar una placa solar, tampoco he incluido ningun circuito que regule la carga de la bateria.
 
+VERSION CON ARDUINO NANO
+
 He utilizado un arduino nano, al que le le quitado el chip que controla el USB y el regular de tensión.
 
 ![image](https://user-images.githubusercontent.com/48222471/228915551-94f1ddf4-b4a0-430f-ab87-c8e708da4901.png)
 
-Esto es debido a que quiero reducir el consumo el máximo posible (y a que no había recibido los atmega 328U DIP28).
+Esto es debido a que quiero reducir el consumo el máximo posible (y a que no había recibido todavía los atmega 328U DIP28).
 
 El modulo LORA es un RA01, que enciendo mediante D4 cuando lo voy a utilizar y apago durante los tiempos muertos.
 
@@ -58,6 +60,22 @@ Prueba de vida de que los mensajes son recibidos como test en las TinyGS:
 
 ![image](https://user-images.githubusercontent.com/48222471/228908670-437fca5c-1ef1-4457-991f-f8e27e7f1951.png)
 ![image](https://user-images.githubusercontent.com/48222471/228918226-2514e1cf-1ea5-44a5-ae04-cddd2e6dc6aa.png)
+
+VERSION ATMEGA328P DIP28
+
+Esquema electrico
+
+![image](https://user-images.githubusercontent.com/48222471/229313160-3cbac3ff-af95-465b-abf5-dbf3972f0f7c.png)
+
+Vista General
+
+![image](https://user-images.githubusercontent.com/48222471/229313185-77cf7366-6b5b-4c11-b76d-0601d74be83c.png)
+
+Prueba de vida de que los mensajes son recibidos como test en las TinyGS:
+
+![Imagen de WhatsApp 2023-04-01 a las 19 56 11](https://user-images.githubusercontent.com/48222471/229313222-dd1b40d4-3982-42db-a7fb-11f40d9111f4.jpg)
+![Imagen de WhatsApp 2023-04-01 a las 19 56 52](https://user-images.githubusercontent.com/48222471/229313238-5e608e25-c7cb-445d-ab14-402e8d299eb2.jpg)
+
 
 
 Una curiosidad, esta programado para si la baliza recibe algun paquete de datos, los reenvia en lugar de los mensajes preprogramados.
