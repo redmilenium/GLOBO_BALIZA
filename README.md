@@ -64,6 +64,8 @@ Prueba de vida de que los mensajes son recibidos como test en las TinyGS:
 VERSION ATMEGA328P DIP28
 
 He configurado mediante fusibles la utilización del reloj interno de 8 Mhz y asi evito un componente, el cuarzo.
+![Imagen de WhatsApp 2023-04-01 a las 19 37 57](https://user-images.githubusercontent.com/48222471/229313613-2299445d-73c2-499b-97db-9801bfb96904.jpg)
+
 El resto del circuito es practicamente como con el Arduino Nano.
 
 Esquema electrico
@@ -85,7 +87,7 @@ Una curiosidad, esta programado para si la baliza recibe algun paquete de datos,
 
 Las frecuencias a utilizar no deberán "molestar" a otros servicios o satelites...
 
-Y este es el soft que corre en el Arduino Nano:
+Y este es el soft que corre en el Arduino Nano/Atmega 328P DIP28:
 
 ```
 
