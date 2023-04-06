@@ -70,7 +70,7 @@ El resto del circuito es practicamente como con el Arduino Nano.
 
 Esquema electrico
 
-![image](https://user-images.githubusercontent.com/48222471/230437488-6dce3476-1071-4f56-bcac-2c54f1c9195c.png)
+![image](https://user-images.githubusercontent.com/48222471/230438198-94d9d351-022a-44b2-a71c-4538f50e1556.png)
 
 Vista General
 
