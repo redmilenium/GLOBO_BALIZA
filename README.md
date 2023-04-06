@@ -343,4 +343,9 @@ void loop()
 //*****************************************************************************
 
 ```
+RESULTADO PRUEBAS EN TIERRA
+Con una LIPO de 500 mA. que en realidad carga 469 mA, he obtenido una duración de aproximadamente 30 horas y se han enviado unos 450 Quijotescos mensajes.
+Es decir, por cada miliamperio real de carga de la LIPO, se ha podido enviado un mensaje.
+O tambien que se necesitan 150 mA por cada 10 horas de operatividad y en ese tiempo se enviaran 150 mensajes.
+A mayor capacidad de la batería, mayor autonomía, pero tambien mayor peso y la necesidad de utilizar mas Helio para poder elevarlo todo.
 
