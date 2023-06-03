@@ -50,7 +50,7 @@ Dado que he eliminado el chip USB del Nano, la carga del soft, se hace via ISP.
 
 Esquema electrico:
 
-![image](https://user-images.githubusercontent.com/48222471/230437961-e3346c21-dbcc-4d8c-b4ae-a1a7a9dc02d1.png)
+![image](https://github.com/redmilenium/GLOBO_BALIZA/assets/48222471/88bb2f4e-2ea4-45b7-874d-e0b5003dabee)
 
 Vista del montaje:
 
@@ -70,7 +70,7 @@ El resto del circuito es practicamente como con el Arduino Nano.
 
 Esquema electrico
 
-![image](https://user-images.githubusercontent.com/48222471/230441588-f21409d4-19c9-4320-af1b-4159b33bea73.png)
+![image](https://github.com/redmilenium/GLOBO_BALIZA/assets/48222471/339f594c-1290-4a96-b03d-45652e8a2c2c)
 
 Vista General
 
