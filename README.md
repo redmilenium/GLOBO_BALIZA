@@ -72,9 +72,14 @@ Esquema electrico
 
 ![image](https://github.com/redmilenium/GLOBO_BALIZA/assets/48222471/339f594c-1290-4a96-b03d-45652e8a2c2c)
 
-Vista General
+Vista General del prototipo:
 
 ![image](https://user-images.githubusercontent.com/48222471/229313185-77cf7366-6b5b-4c11-b76d-0601d74be83c.png)
+
+Vista general en el la placa definitiva:
+
+![image](https://github.com/redmilenium/GLOBO_BALIZA/assets/48222471/1c4b0c05-ffeb-4dfe-8efb-3cb38462d5b1)
+
 
 Prueba de vida de que los mensajes son recibidos como test en las TinyGS:
 
